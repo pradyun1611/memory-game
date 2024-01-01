@@ -3,11 +3,30 @@ body {
   background-color: #011F3F;
 }
 
-#level-title {
-  font-family: 'Press Start 2P', cursive;
+h1 {
+  font-family: 'Press Start 2P';
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
+}
+
+#good-luck {
+  color: #FEF2BF;
+  font-family: 'Press Start 2P';
+  font-size: 2rem;
+}
+
+a {
+  color: red;
+  font-family: 'Press Start 2P';
+}
+
+ul {
+  font-family: 'Press Start 2P';
+  text-align: left;
+  color: #fef2bfd8;
+  font-size: 1.25rem;
+  line-height: 200%;
 }
 
 .container {
